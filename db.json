@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "id": "4503",
+      "name": "Jackie Zieme"
+    },
+    {
+      "id": "29f3",
+      "name": "Ana Feeney"
+    },
+    {
+      "id": "e2f5",
+      "name": "Edwin Schoen"
+    },
+    {
+      "id": "d0bc",
+      "name": "Ricky Gislason"
+    },
+    {
+      "id": "2a6d",
+      "name": "Clifton VonRueden"
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
